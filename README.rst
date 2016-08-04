@@ -1,7 +1,6 @@
-Simple AI
-=========
+Storehouse
 
-Project home: http://github.com/simpleai-team/simpleai
+A fork of simpleai
 
 This lib implements many of the artificial intelligence algorithms described on the book "Artificial Intelligence, a Modern Approach", from Stuart Russel and Peter Norvig. We strongly recommend you to read the book, or at least the introductory chapters and the ones related to the components you want to use, because we won't explain the algorithms here.
 
@@ -79,21 +78,3 @@ This problem tries to create the string "HELLO WORLD" using the A* algorithm:
 
     print result.state
     print result.path()
-
-
-More detailed documentation
-===========================
-
-You can read the docs online `here <http://simpleai.readthedocs.org/en/latest/>`_. Or for offline access, you can clone the project code repository and read them from the ``docs`` folder.
-
-Help and discussion
-===================
-
-Join us at the Simple AI `google group <http://groups.google.com/group/simpleai>`_.
-
-    
-Authors
-=======
-
-* Many people you can find on the `contributors section <https://github.com/simpleai-team/simpleai/graphs/contributors>`_.
-* Special acknowledgements to `Machinalis <http://www.machinalis.com/>`_ for the time provided to work on this project. Machinalis also works on some other very interesting projects, like `Quepy <http://quepy.machinalis.com/>`_ and `more <https://github.com/machinalis>`_.
